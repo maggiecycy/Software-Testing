@@ -1,14 +1,5 @@
 # 100 Fundamental Testing Interview Questions in 2026
 
-<div>
-<p align="center">
-<a href="https://devinterview.io/questions/web-and-mobile-development/">
-<img src="https://firebasestorage.googleapis.com/v0/b/dev-stack-app.appspot.com/o/github-blog-img%2Fweb-and-mobile-development-github-img.jpg?alt=media&token=1b5eeecc-c9fb-49f5-9e03-50cf2e309555" alt="web-and-mobile-development" width="100%">
-</a>
-</p>
-
-#### You can also find all 100 answers here 👉 [Devinterview.io - Testing](https://devinterview.io/questions/web-and-mobile-development/testing-interview-questions)
-
 <br>
 
 ## 1. What is _software testing_, and why is it important?
